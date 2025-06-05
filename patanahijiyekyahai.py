@@ -33,7 +33,7 @@ star = k
 
 for j in range(0, roww):
 
-    i = 1
+    i =1
 
     while (star < roww):
         print(" ", end="")
