@@ -1,11 +1,12 @@
-# # str = "hello"www
-# # tup = ("Hello", 5 ,"a")
-# # list = [1 , 2 ,3]
-# # list[0] = 11
-# sum = 0   
+# # # str = "hello"www
+# # # tup = ("Hello", 5 ,"a")
+# # # list = [1 , 2 ,3]
+# # # list[0] = 11
+# sum = 0
 # i = 0
 # roww = int(input("Enter size:"))
 # j = 0
+
 
 # r1 = roww
 # k = r1-1
@@ -33,7 +34,7 @@
 
 # for j in range(0, roww):
 
-#     i =1
+#     i = 1
 
 #     while (star < roww):
 #         print(" ", end="")
