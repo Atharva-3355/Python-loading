@@ -5,7 +5,7 @@ students_list = ["Atharva", "ATHARVA", "AthArvA"]  # list
 
 item1_oflist = students_list[0]  # list item
 
-# lets print em all !!!
+# lets print em alll !!!
 
 print(roll_no, student_name,
       student_proness_ratio, students_list, item1_oflist)

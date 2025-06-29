@@ -11,7 +11,7 @@ word2 = "Agre"
 # 1st way:
 full_name = word1 + " " + word2
 
-# 2nd way:
+# 2nd wayy:
 Full_name = f"first name:{word1}\nLast name:{word2}"
 print(Full_name)
 

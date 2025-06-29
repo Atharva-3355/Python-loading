@@ -11,7 +11,7 @@ course = "Python Programming"
 
 letter1 = course[0]  # Kyuki intex of 1st letter is 0
 print("\n1st letter of the String: ", letter1)
-letter2 = course[1]  # index of 2nd letter is 1
+letter2 = course[1]  # index of 2nd letter is 1.
 print("2nd letter of the string: ", letter2)
 letter3 = course[2]  # index of 3rd letter is 2
 print("3rd letter of the string: ", letter3)

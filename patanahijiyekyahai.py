@@ -198,3 +198,11 @@
 # for i in range(0, 4):
 #     for j in range(pre_week, nex_week):
 #         if (j <= month):
+
+
+months_arr = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+
+choice = int(input("Enter Month no:"))
+choice -= 1
+
+month = months_arr[choice]

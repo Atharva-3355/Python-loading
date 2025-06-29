@@ -16,4 +16,4 @@ lower_case = course.lower()
 print(course.lower())  # Using the .lower() function
 
 
-# 3)To
+# 3)To print
